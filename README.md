@@ -12,7 +12,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -51,8 +50,4 @@ I'll probably focus on creating more grid based layouts, as well as implementing
 ### Useful resources
 
 - (https://www.youtube.com/watch?v=cQnUopEeZgw&t) - Although this video is a walkthrough on how to complete this challenge, I used it mostly for when I got stuck on things I didn't know, like setting variables based on classes or ids set in the HTML, as well as implementing the addEventListener method.
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
